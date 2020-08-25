@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('../media/iconfont.eot?t=1596521114043'); /* IE9 */
+  src: url('../media/iconfont.eot?t=1596521114043#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOwAAsAAAAACFwAAANjAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDaIM0ATYCJAMUCwwABCAFhG0HWhtSBxHVm8PIfhzGMck6c2bkTSjPG/seRKQzZ+9OjiyHGBRCrID0IW4BoEv1wFT9BysiB4BZm50+oyIM3TEe/DdP2VB6br/9zzHjrQXz29YgU8wKCtob4CiBZrOqiwiyO5AT9RvGrryImyGAQ2t6IhMmzViAjcHYJIDs2Lp5LXbKiKmpFGwEX8mJBrmKha3OqVTgiv/78pH+YoPC0hi3mrNp4gbcqgFVE7QX9FZoD288O8BOAw30BAzIvlLnDnSY7InGUeYbXMDBRqHGmja8yq2aEAzG0h2pHfMfHggKjQHxYZTXBMBFKQNVA2wqBKqGU6GgyqVCQ9UE8Yu5jQWAA9QBLgIJSNtxzFwfCu2vaeD95mFNjO1vbMzmt9khOReyvMxFubkL8vIWFhQszs9fYula3wl4yZmtbuauyi1ckFe0sKCk7LTiQw9DvbALESHhe2pJTezkZlPbCiS+2jn/FOM9C9S58EKsdbWoeYja4lBPlo1eoB21aOTGzfKgYHJcXjsCkp8/2zVwVB29pLausyYgTrCNt3CeydT1/3hZulTG81y+0xTnht2vXfh+8GCb50vD3D1hdf7WNONMnstDTbyYgary7oDBuLH5aM/1InGx8yrG4Hpr0vy8vw51IpHAr29bEYELAymSudYMvClTyt69/+J+cWaWDR7EsTt3rSlT5syxdZZrxGTOjh1zkEwoD8ru4pMi745Z7bZ1j0VEupHsB+zVkaoSgpXa020BfBSINUbB/pM7Zat+r64z8psdMACUzG5xDQaDlYZ+KRsFrUW/VdSyw6gSw2QZudUWyiGLvvw0pVL6HOBneutTPo66Ues4CHZKxEBRg1agsemIMJieYBFgIPiwGQMOPZh8eoAG7EMjxg905xQAoS5vQFGbCNDUJQ1hMGVg0ZjP4KOuaHBYJA0uGKCzmJMfb2iIXtq/TN2xq2WhDypvGN5rY0mJT3jBwhSRLE6zmRo7bIw94TPkpIrasUkFbod1PeS0Y0bHeCTPMkm07Jvi7ticZ7yhIXpp/zJ1x65ub/rcz98wvNfGatoqnC9YmCaXLE5bIGrl3qrtWl4TPkNOqqgdm1TAjtVMHnKWL5vRMR57xM8yQd20rTKeX7094zHAwVhsiRItRizx4T/5UESE2xKGHRnlyh2FcwA=') format('woff2'),
+  url('../media/iconfont.woff?t=1596521114043') format('woff'),
+  url('../media/iconfont.ttf?t=1596521114043') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../media/iconfont.svg?t=1596521114043#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e633";
+}
+
+.icon-icon-test1:before {
+  content: "\e63a";
+}
+
+.icon-icon-test2:before {
+  content: "\e640";
+}
+
+.icon-icon-test3:before {
+  content: "\e644";
+}
+
